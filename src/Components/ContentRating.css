@@ -1,4 +1,10 @@
 /* ImageRatingComponent.css */
+p{
+  font-family: "Delius Swash Caps", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
+
 
 .content-rating {
     text-align: center;
